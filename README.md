@@ -1,4 +1,4 @@
-# curso_1
+# curso_flutter_counter
 
 A new Flutter project.
 
